@@ -151,7 +151,7 @@ body {
 
 .input-control {
   width: 100%;
-  padding-block: calc(var(--large-spacing) + 0.188rem);
+  padding-block: calc(var(--large-spacing) + 0.125rem);
   padding-inline: clamp(1.25rem, 4vw, 2rem);
   font-size: calc(var(--font-size-base) - 0.0625rem);
   font-weight: 600;
@@ -194,7 +194,7 @@ body {
 
 .form-submit {
   width: 100%;
-  padding-block: calc(var(--large-spacing) + 0.188rem);
+  padding-block: calc(var(--large-spacing) + 0.157rem);
   margin-block-end: calc(var(--small-spacing) + 0.25rem);
   background-color: var(--primary-green-color);
   color: white;
